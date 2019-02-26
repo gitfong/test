@@ -9,4 +9,5 @@ func main() {
 	fmt.Println("new v1.0.0")
 	fmt.Println("new line")
 	fmt.Println("commit by ljf")
+	fmt.Println("commit by gitfong")
 }
