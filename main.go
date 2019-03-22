@@ -11,4 +11,6 @@ func main() {
 	fmt.Println("commit by ljf")
 	fmt.Println("commit by gitfong")
 	fmt.Println("commit by jiefeng163")
+
+	fmt.Println("add this line from branch dev")
 }
