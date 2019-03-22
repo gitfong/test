@@ -14,4 +14,5 @@ func main() {
 
 	fmt.Println("hello")
 	fmt.Println("add this line from branch dev")
+	fmt.Println("add this line in branch master")
 }
