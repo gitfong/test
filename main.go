@@ -19,6 +19,5 @@ func main() {
 	fmt.Println("aaaa")
 	fmt.Println("bbb")
 	fmt.Println("ccc")
-	fmt.Println("ccc")
 	fmt.Println("ddd")
 }
