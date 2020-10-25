@@ -15,6 +15,7 @@ func main() {
 	fmt.Println("hello")
 	fmt.Println("add this line from branch dev")
 	fmt.Println("add this line in branch master")
+	fmt.Println("add this line in branch dev again")
 	fmt.Println("add this line in branch master too")
 	fmt.Println("aaaa")
 	fmt.Println("bbb")
@@ -26,4 +27,6 @@ func main() {
 	fmt.Println("ddd")
 	fmt.Println("ddd")
 	fmt.Println("ddd")
+
+	fmt.Println("kkk")
 }
